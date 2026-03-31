@@ -1,0 +1,27 @@
+{
+    "codecrafters-io/build-your-own-x": {
+        "description": "Master programming by recreating your favorite technologies from scratch.",
+        "ai_analysis": "这是一个通过从零开始复刻流行技术（如数据库、操作系统等）来深入学习编程原理的开源项目集合，推荐理由是它能帮助开发者打破技术黑盒、透彻理解核心概念并大幅提升工程能力。",
+        "update_time": "2026-03-31 16:04:50"
+    },
+    "sindresorhus/awesome": {
+        "description": "😎 Awesome lists about all kinds of interesting topics",
+        "ai_analysis": "这是一个收集各类高质量主题资源列表的 GitHub 项目，旨在为用户提供精心筛选的优质学习与工具导航。  \n推荐理由：它由社区共同维护，涵盖技术、设计、学术等广泛领域，能极大提升信息检索效率，是快速入门新领域或寻找可靠资源的首选“宝藏库”。",
+        "update_time": "2026-03-31 16:04:54"
+    },
+    "freeCodeCamp/freeCodeCamp": {
+        "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
+        "ai_analysis": "这是一个提供免费编程与计算机科学课程的开源学习平台，推荐理由是通过系统化、实践驱动的课程帮助零基础学习者掌握实用技能，并拥有活跃的全球开发者社区支持。",
+        "update_time": "2026-03-31 16:04:56"
+    },
+    "public-apis/public-apis": {
+        "description": "A collective list of free APIs",
+        "ai_analysis": "这是一个收集和整理互联网上免费API接口资源的开源项目，为开发者提供便捷的API查询目录。推荐理由：它系统性地分类汇总了涵盖天气、金融、娱乐等领域的数百个免费API，能显著降低开发者寻找和测试接口的时间成本。",
+        "update_time": "2026-03-31 16:04:59"
+    },
+    "EbookFoundation/free-programming-books": {
+        "description": ":books: Freely available programming books",
+        "ai_analysis": "这是一个收集和分享免费编程书籍的开源项目，旨在为全球学习者提供可自由访问的编程教育资源。推荐理由：它系统整理了多语言、多领域的优质免费技术书籍，并由开源社区持续维护更新，适合所有阶段的开发者低成本获取知识。",
+        "update_time": "2026-03-31 16:05:02"
+    }
+}
